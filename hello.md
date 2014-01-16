@@ -1,9 +1,9 @@
 자기소개
 ---------------------
-이름 : 심동환
+이름 : 김만석
 
-팀 : UX개발팀
+팀 : 커머스운영팀
 
-Github ID : ehdghks89
+Github ID : manpro1122
 
-E-mail : voov@wemakeprice.com
+E-mail : manpro@wemakeprice.com
